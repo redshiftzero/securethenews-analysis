@@ -10,3 +10,7 @@ python -m SimpleHTTPServer
 ## See live at:
 
 https://redshiftzero.github.io/securethenews-analysis/
+
+## TODO
+
+- add jitter to lines
